@@ -1,4 +1,4 @@
-﻿# Music Player Application - Android
+# Music Player Application - Android
  
 ## Installation
 
@@ -8,7 +8,7 @@ Download and Install the Android Studio.
 
 To run the application:
 
-1. Run the Wamp server
+1. Run the Andriod Studio.
 
 2. Open the project folder in Android Studio.
 
